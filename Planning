@@ -1,0 +1,23 @@
+
+
+This file declares a plan for building the entire application, there is no way I'll have everything here but it's a start.
+
+Primary Features:
+* Initial functionality will collect data from all sites
+* User input fields to take name, address, phone number. This information will not be stored
+* Result list, filterable by site found (hopefully using their APIs)
+** Tab/Function for web services
+** Tab/Function for data brokers
+
+Supplementary or stretch features:
+* Start with links to each service with instructions on how to remove yourself
+* Potentially pre-fill those pages with personal information, if a permanent link is available.
+* Sub pages:
+** Tab/Function for junk mail (junk mail is going to be complicated)
+
+Risks: 
+* Abuse: 
+** Problem: this service will make it easy to find yourself as well as others.
+** Situation: If someone really wants to know, they can easily find out on their own....
+* Privacy: 
+** Well the information is already out there....sooo
