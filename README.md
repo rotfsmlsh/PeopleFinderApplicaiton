@@ -7,26 +7,26 @@ The initial goal is to create a query to each of the following in order to provi
 
 
 Potential web service list: 
-* Whitepages
-* Spokeo
-* Intelius
-* MyLife
-* BeenVerified
-* Truthfinder
-* InstantCheckmate 
-* Pipl
-* Lexis Nexis
 * Apollo.io
-* US Search
+* BeenVerified
+* InstantCheckmate 
+* Intelius
+* Lexis Nexis
+* MyLife
 * PeekYou
+* Pipl
+* Spokeo
+* Truthfinder
+* US Search
+* Whitepages
 
 Data Brokers list:
 * Acxiom
+* CoreLogic
 * Epsilon Data Management LLC
-* Oracle America, Inc.
 * Equifax Information Services LLC
 * Experian LLC
-* CoreLogic
+* Oracle America, Inc.
 
 
 Not as simple Options: 
